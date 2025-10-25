@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "f1dfb6fba23f966d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfa8e3951a2974c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cd969b2ee75145e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "集成學習 (Ensemble Learning).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "集成學習 (Ensemble Learning)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f82a4d7ff5fcaae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3634e63923f886a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5dceb5e1990518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "fc8bec66c2b98928",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "3d92ebd90df060ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab35c9acc248606a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f23106ba3b9bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc763c3e9d327bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "集成學習 (Ensemble Learning).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "集成學習 (Ensemble Learning) 的反向連結"
+            }
+          },
+          {
+            "id": "ad66f0bc447cc1f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "集成學習 (Ensemble Learning).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "集成學習 (Ensemble Learning) 的對外連結"
+            }
+          },
+          {
+            "id": "d4d022f9e820e022",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "9982084cfd099013",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "集成學習 (Ensemble Learning).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "集成學習 (Ensemble Learning) 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "1cd969b2ee75145e",
+  "lastOpenFiles": [
+    "未命名.base",
+    "混淆矩陣 (Confusion Matrix).md",
+    "準確率 (Accuracy).md",
+    "LightGBM.md",
+    "嶺迴歸 (Ridge Regression).md",
+    "過擬合與欠擬合.md",
+    "ROC 曲線 (Receiver Operating Characteristic Curve) 與 AUC (Area Under the Curve).md",
+    "F1-分數 (F1-Score).md",
+    "召回率 (Recall).md",
+    "精確率 (Precision).md",
+    "R-平方 (R-squared, R2).md",
+    "平均絕對誤差 (Mean Absolute Error, MAE).md",
+    "均方根誤差 (Root Mean Squared Error, RMSE).md",
+    "集成學習 (Ensemble Learning).md",
+    "生成對抗網路 (Generative Adversarial Networks, GANs).md",
+    "Transformer.md",
+    "均方誤差 (Mean Squared Error, MSE).md",
+    "深度循環神經網路 (Deep RNN).md",
+    "模型評估與選擇.md",
+    "雙向循環神經網路 (Bidirectional RNN, BiRNN).md",
+    "門控循環單元 (Gated Recurrent Unit, GRU).md",
+    "長短期記憶網路 (Long Short-Term Memory, LSTM).md",
+    "循環神經網路 (Recurrent Neural Networks, RNNs).md",
+    "卷積神經網路 (Convolutional Neural Networks, CNNs).md",
+    "深度學習 (Deep Learning).md",
+    "交叉驗證 (Cross-Validation).md"
+  ]
+}

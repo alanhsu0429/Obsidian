@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "a957cc37d211a8a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "920f82a164a7ed5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc3afcc480da0ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rollups 詳解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rollups 詳解"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a81e7e0d0ab459a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "87cc3c732e24d595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84c24b2386d648b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "9f1dc253e5a05b1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a386b20bdd398668",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c2bd67f8718e4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8c59e9c297ede62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf5ddc3f22f458d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rollups 詳解.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rollups 詳解 的反向連結"
+            }
+          },
+          {
+            "id": "b07c28c0e0034edc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rollups 詳解.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Rollups 詳解 的對外連結"
+            }
+          },
+          {
+            "id": "878c11347c865f82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "21f448276ab208c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rollups 詳解.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Rollups 詳解 的大綱"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:建立新的 base": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "84c24b2386d648b6",
+  "lastOpenFiles": [
+    "共識機制詳解.md",
+    "PoW 與 PoS 完整對比總結.md",
+    "DApp 的開發與挑戰.md",
+    "去中心化應用 (DApps).md",
+    "DApp 的分類與應用範例.md",
+    "聯盟鏈詳解.md",
+    "區塊鏈的種類.md",
+    "私有鏈詳解.md",
+    "公有鏈詳解.md",
+    "DeFi 協議詳解.md",
+    "去中心化金融 (DeFi).md",
+    "工作量證明 (PoW).md",
+    "PoW 視覺化解釋.md",
+    "權益證明 (PoS).md",
+    "區塊鏈的組成部分.md",
+    "密碼學原理.md",
+    "區塊鏈如何運作.md",
+    "區塊鏈介紹總覽.md",
+    "區塊鏈核心概念.canvas",
+    "未命名.canvas",
+    "什麼是區塊鏈.md",
+    "加密貨幣與區塊鏈的關係.md",
+    "代幣經濟學 (Tokenomics).md",
+    "Web3.md",
+    "加密貨幣錢包.md",
+    "不同錢包的選擇與使用.md",
+    "錢包的安全性與最佳實踐.md",
+    "去中心化交易所 (DEX) 詳解.md",
+    "未命名.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
